@@ -5,6 +5,7 @@ public class test {
                 System.out.print(i+"*"+j+"="+i*j+" ");
                 if (j==i){
                     System.out.println();
+                    System.out.println();
                 }
             }
             }
