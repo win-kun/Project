@@ -6,7 +6,6 @@ public class test {
                 if (j==i){
                     System.out.println();
 
-
                 }
             }
             }
